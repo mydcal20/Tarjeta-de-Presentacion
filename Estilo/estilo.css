@@ -1,0 +1,59 @@
+.datos{
+	margin-right: 20%;
+	margin-left:20%;
+	border: 0px;
+	padding: 5%;
+	background-color: #97DDBF;
+	width: 50%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	height: 60%;
+	display: inline-flex;
+}
+.imagen{
+border: 0px;
+margin: 0px; 
+padding: 0px;
+width: 50%; 
+height: auto; 
+display: inline-block;
+background-color:#97DDBF ;
+}
+#info{
+border: 0px;
+margin: 0px; 
+padding: 0px;
+width: 50%; 
+height: auto; 
+display: inline-block;
+background-color:#B3FBF3 ;
+}
+
+.logo{
+	background-color: red; 
+}
+.imagen img{
+	border: 0px;
+	padding: 10%;
+	width: 80%;
+	height: 80%;
+	border-radius: 200px;
+}
+#info div{
+	border: 0px;
+	padding: 5%;
+	margin: 0px; 
+	width: 90%;
+	height: 10%;
+	margin: 0px;
+	display: inline-block;
+
+}
+#info p{
+	font-family: verdana;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background-color: #4EEBEB;
+	display: inline-block;
+}
