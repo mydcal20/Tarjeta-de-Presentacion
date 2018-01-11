@@ -26,7 +26,7 @@ padding: 0px;
 width: 50%; 
 height: auto; 
 display: inline-block;
-background-color:#B3FBF3 ;
+background-color:#97DDBF;
 }
 
 .logo{
@@ -56,4 +56,7 @@ background-color:#B3FBF3 ;
 	height: 100%;
 	background-color: #4EEBEB;
 	display: inline-block;
+	border-radius: 70px;
+
+
 }
